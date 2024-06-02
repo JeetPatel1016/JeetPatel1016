@@ -3,7 +3,7 @@
 [![Jeet's GitHub Banner](./assets/JeetPatel.gif)](https://portfolio-jeetpatel1016.vercel.app/)
 
 I’m Jeet, a JS Based full-stack engineer, CSS Enthusiast and an eternal learner. I like making websites with pixel perfect accuracy and lower load times.
-[Check out my portfolio.](https://braydoncoyer.dev/)
+[Check out my portfolio.](https://portfolio-jeetpatel1016.vercel.app/)
 
 <center>
 
