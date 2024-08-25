@@ -13,6 +13,33 @@ I’m Jeet, a JS Based full-stack engineer, CSS Enthusiast and an eternal learne
 
 # 💻 My Projects
 
+## [Up For Grabs (Open-Source Contribution)](https://up-for-grabs.net/#/)
+Up for Grabs is a list of projects which have curated tasks specifically for new contributors. I revamped the dark mode of the UI for better readability and modern design look.
+<details>
+<summary>Technologies used:</summary>
+  
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Javascript&logoColor=white&color=da9a01)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=a91401)
+![](https://img.shields.io/badge/Code-Jekyll-informational?style=flat&logo=Jekyll&logoColor=white&color=704080)
+</details>
+
+[View Forked Repo](https://github.com/JeetPatel1016/up-for-grabs.net)
+
+
+## [Gradius-JS](https://jeetpatel1016.github.io/gradius-js/)
+'Gradius-JS' is the remake of the classic NES game 'Gradius', brought to modern Web Browsers.
+<details>
+<summary>Technologies used:</summary>
+  
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Javascript&logoColor=white&color=da9a01)
+</details>
+
+[View Repo](https://github.com/JeetPatel1016/gradius-js)
+
 ## [CoviStats](https://jeetpatel1016.github.io/CoviStats)
 
 A web portal to view statistics related to COVID-19 pandemic.
@@ -31,37 +58,6 @@ Data is made available by the API provided by [COVID19-India API](https://data.c
 </details>
 
 [View Repo](https://github.com/JeetPatel1016/CoviStats)
-
-## [KnowWeather](https://stormy-dawn-73924.herokuapp.com/)
-
-Web Application to view Weather data such as Temperature, Humidity, Pressure and Wind Speed for user-specified location. Along with weather data, weather forecast for 5 days is also provided. Data is made available from [OpenWeather API](https://openweathermap.org/).
-
-Design inspired by [Hassanur Rakib](https://dribbble.com/shots/6357271-Weather-Application-for-Desktop) and made responsive to adjust for smaller device screens.
-
-<details>
-<summary>Technologies Used:</summary>
-
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&color=black)
-![](https://img.shields.io/badge/Code-EJS-informational?style=flat&logo=EJS&logoColor=white&color=519e24)
-
-</details>
-
-[View Repo](https://github.com/JeetPatel1016/know-weather)
-
-## [Neumorphism Calculator](https://calculator-neumorphism.herokuapp.com/)
-
-A simple calculator made using React UI framework and logic implemented by useState hooks. Neumorphic Design style is implemented for the interface of the calculator.
-
-<details>
-<summary>Technologies Used:</summary>
-
-![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=31a0eb)
-
-</details>
-
-[View Repo](https://github.com/JeetPatel1016/react-calculator)
 
 # My Tech stack
 
