@@ -13,6 +13,26 @@ I’m Jeet, a JS Based full-stack engineer, CSS Enthusiast and an eternal learne
 
 # 💻 My Projects
 
+Here’s the updated markdown with the Tailwind CSS badge added:
+
+## [PulseGrid](https://jeetpatel1016.github.io/pulse-grid/)
+PulseGrid is a web-based drum sequencer app that allows users to create, control, and manipulate music patterns with an intuitive interface. Using [this app](https://github.com/sabigara/ytb-drum-sequencer) as a foundation, I refactored the application and built key features such as Tempo adjustment and Volume Mixer.
+
+<details>
+<summary>Technologies used:</summary>
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61dafb)
+![](https://img.shields.io/badge/Code-Tone.js-informational?style=flat&logo=javascript&logoColor=white&color=64c8c6)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178c6)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=1572b6)
+![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=38b2ac)
+![](https://img.shields.io/badge/Code-Joyride-informational?style=flat&logo=react&logoColor=white&color=fc524d)
+
+</details>
+
+[View Repo](https://github.com/JeetPatel1016/pulse-grid)
+
+
 ## [Up For Grabs (Open-Source Contribution)](https://up-for-grabs.net/#/)
 Up for Grabs is a list of projects which have curated tasks specifically for new contributors. I revamped the dark mode of the UI for better readability and modern design look.
 <details>
