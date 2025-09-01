@@ -13,7 +13,22 @@ I’m Jeet, a JS Based full-stack engineer, CSS Enthusiast and an eternal learne
 
 # 💻 My Projects
 
-Here’s the updated markdown with the Tailwind CSS badge added:
+## [NextConf](https://nextconf.netlify.app/)
+
+NextConf is a modern conference website with a sleek, responsive design featuring smooth animations and a bento grid layout. Built with a focus on clean UI aesthetics and seamless interactivity, it emphasizes a polished look and fluid user experience. This project is a faithful web implementation inspired by an original design, recreated to showcase front-end precision and attention to detail.
+
+<details>
+<summary>Technologies used:</summary>
+
+[![](https://img.shields.io/badge/Code-Next.js-informational?style=flat\&logo=next.js\&logoColor=white\&color=000000)](https://nextjs.org/)
+[![](https://img.shields.io/badge/Code-React-informational?style=flat\&logo=react\&logoColor=white\&color=61dafb)](https://react.dev/)
+[![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat\&logo=typescript\&logoColor=white\&color=3178c6)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat\&logo=tailwind-css\&logoColor=white\&color=38b2ac)](https://tailwindcss.com/)
+[![](https://img.shields.io/badge/Code-FramerMotion-informational?style=flat\&logo=framer\&logoColor=white\&color=0055ff)](https://www.framer.com/motion/)
+
+</details> 
+
+[View Repo](https://github.com/JeetPatel1016/nextconf)
 
 ## [PulseGrid](https://jeetpatel1016.github.io/pulse-grid/)
 PulseGrid is a web-based drum sequencer app that allows users to create, control, and manipulate music patterns with an intuitive interface. Using [this app](https://github.com/sabigara/ytb-drum-sequencer) as a foundation, I refactored the application and built key features such as Tempo adjustment and Volume Mixer.
