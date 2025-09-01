@@ -14,6 +14,7 @@ I’m Jeet, a JS Based full-stack engineer, CSS Enthusiast and an eternal learne
 # 💻 My Projects
 
 ## [NextConf](https://nextconf.netlify.app/)
+<img width="2400" height="1350" alt="Desktop - 1" src="https://github.com/user-attachments/assets/085a72f5-c80f-497a-b0ec-7b9b5a0ee904" />
 
 NextConf is a modern conference website with a sleek, responsive design featuring smooth animations and a bento grid layout. Built with a focus on clean UI aesthetics and seamless interactivity, it emphasizes a polished look and fluid user experience. This project is a faithful web implementation inspired by an original design, recreated to showcase front-end precision and attention to detail.
 
@@ -31,6 +32,8 @@ NextConf is a modern conference website with a sleek, responsive design featurin
 [View Repo](https://github.com/JeetPatel1016/nextconf)
 
 ## [PulseGrid](https://jeetpatel1016.github.io/pulse-grid/)
+<img width="2400" height="1350" alt="Desktop - 2" src="https://github.com/user-attachments/assets/9b8b8117-cf04-4ead-a2b8-76974b3d9b1c" />
+
 PulseGrid is a web-based drum sequencer app that allows users to create, control, and manipulate music patterns with an intuitive interface. Using [this app](https://github.com/sabigara/ytb-drum-sequencer) as a foundation, I refactored the application and built key features such as Tempo adjustment and Volume Mixer.
 
 <details>
@@ -49,7 +52,10 @@ PulseGrid is a web-based drum sequencer app that allows users to create, control
 
 
 ## [Up For Grabs (Open-Source Contribution)](https://up-for-grabs.net/#/)
+<img width="2400" height="1350" alt="Desktop - 3" src="https://github.com/user-attachments/assets/08d5de0a-cbdb-447b-a627-48e448dc20ff" />
+
 Up for Grabs is a list of projects which have curated tasks specifically for new contributors. I revamped the dark mode of the UI for better readability and modern design look.
+
 <details>
 <summary>Technologies used:</summary>
   
@@ -61,38 +67,6 @@ Up for Grabs is a list of projects which have curated tasks specifically for new
 </details>
 
 [View Forked Repo](https://github.com/JeetPatel1016/up-for-grabs.net)
-
-
-## [Gradius-JS](https://jeetpatel1016.github.io/gradius-js/)
-'Gradius-JS' is the remake of the classic NES game 'Gradius', brought to modern Web Browsers.
-<details>
-<summary>Technologies used:</summary>
-  
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Javascript&logoColor=white&color=da9a01)
-</details>
-
-[View Repo](https://github.com/JeetPatel1016/gradius-js)
-
-## [CoviStats](https://jeetpatel1016.github.io/CoviStats)
-
-A web portal to view statistics related to COVID-19 pandemic.
-Data is made available by the API provided by [COVID19-India API](https://data.covid19india.org/). <br/>
-
-<details>
-<summary>Technologies Used:</summary>
-
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Javascript&logoColor=white&color=da9a01)
-![](https://img.shields.io/badge/Code-Jquery-informational?style=flat&logo=Jquery&color=2162e5)
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=704080)
-![](https://img.shields.io/badge/Code-ChartJS-informational?style=flat&logo=react&logoColor=white&color=782a8a)
-
-</details>
-
-[View Repo](https://github.com/JeetPatel1016/CoviStats)
 
 # My Tech stack
 
